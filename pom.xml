@@ -6,7 +6,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>Bookstore_1-0</name>
-    <description>CS420 Project #2</description>
+    <description>CS 420 Bookstore Project</description>
     <build>
         <plugins>
             <plugin>
